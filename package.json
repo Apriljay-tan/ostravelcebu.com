@@ -1,0 +1,31 @@
+{
+  "name": "turmet",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.6",
+    "bootstrap-icons": "^1.13.1",
+    "html-react-parser": "^5.2.5",
+    "next": "15.3.2",
+    "react": "^19.0.0",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "^19.0.0",
+    "react-slick": "^0.30.3",
+    "resend": "^6.16.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^22.15.21",
+    "@types/react": "^19.1.5",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.2",
+    "typescript": "^5.8.3"
+  }
+}
