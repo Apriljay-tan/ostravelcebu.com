@@ -33,6 +33,10 @@ const documents = [
     title: 'DTI Certificate of Business Name Registration',
   },
   {
+    img: '/assets/img/legitimacy/business-permit.jpg',
+    title: 'Business Permit',
+  },
+  {
     img: '/assets/img/legitimacy/TOURISM_CERTIFICATE.jpg',
     title: 'Tourism Certificate',
   },
